@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+# dist    <-- Ye line hata dein ya comment out kar dein
 dist-ssr
 *.local
 
